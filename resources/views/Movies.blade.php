@@ -2,7 +2,8 @@
 @section("title", "Movies - Homepage")
 
 @section("content")
-<div class="container">
+<h1 class="text-center text-senape mt-5 mb-2">Movie list from Database!</h1>
+<div class="container pt-5 pb-5">
     <table class="table">
       <thead>
         <tr>
